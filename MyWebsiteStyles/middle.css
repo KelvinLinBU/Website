@@ -1,0 +1,57 @@
+.profilepic{
+    margin-top: 90px;
+    height: 600px;
+    border-color: rgb(36,50,54);
+    border-radius: 10%;
+    border: 5px solid;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.profilepicblurb{
+    padding-top: 4px;
+    font-size: 25px;
+    font-family: Merriweather;
+    font-weight: bold;
+    width: 281.25px;
+    text-align: center;
+    color: rgb(36,50,54);
+    margin-left: 38px;
+    vertical-align: top;
+    flex-shrink: 0;
+    
+}
+
+.salespitch{
+    display: inline-block;
+    margin-left:30px;
+    font-size: 38px; 
+    font-family: Merriweather;
+    font-weight: bold;
+    width:1050px;
+    flex-shrink: 0;
+    color: rgb(36,50,54);
+    line-height: 1.5;
+    margin-bottom: -10px;
+}
+
+.profileandsalespitch{
+    display: inline-block
+}
+
+.left-mid-section {
+    display: flex;
+    align-items: center;
+  }
+
+.right-mid-section{
+    height:90px;
+    display: flex;
+    
+}
+
+
+
+
+
+

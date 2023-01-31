@@ -1,0 +1,47 @@
+.projectscontainer{
+    width: 1400px;
+    display: flex;
+    height: auto;
+    margin-top:10px;
+    align-items: center;
+    margin-left: 10px;
+}
+.projectcontainer{
+    border-color: rgb(36,54,50);
+    border-style: solid;
+    border-width: 4px;
+    width: flex;
+    height: 250px;
+    margin-right: 20px;
+    justify-content: center;
+    padding-top:10px;
+    padding-right:10px;
+    padding-left: 10px;
+}
+
+.projectimage{
+    
+    width: 280px;
+    height: 200px;
+    justify-content: center;
+    border-color: rgb(36,54,50);
+    border-width: 4px;
+    border-style: solid;
+    object-fit: cover;
+}
+
+.imagecontainer{
+    justify-content: center;
+}
+
+.projectblurb{
+    width: 280px;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 24px;
+    color: rgb(36,54,50);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

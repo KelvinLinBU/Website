@@ -1,0 +1,48 @@
+.aboutmidtext{
+    font-family: Merriweather;
+    font-size: 30px;
+    margin-top: 90px;
+    color: rgb(36,54,50);
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    width: 1440px;
+}
+
+.picgrid{
+    width: 1400px;
+    margin-top:7px;
+    margin-left: 15px;
+    display: flex;
+    height: 261.13px;
+}
+
+.picgridimages{
+    width:450px;
+    border-style: solid;
+    border-color: rgb(36,54,50);
+    border-width: 4px;
+    display: flex;
+}
+
+.aboutblurbs{
+    padding-left: 20px;
+    font-family: Merriweather;
+    font-size: 20px;
+    
+    color: rgb(36,50,54);
+    width: 950px;
+}
+
+.abouttitle{
+    font-family: Merriweather;
+    font-size: 24px;
+    color: rgb(36,54,50);
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    width: 1440px;
+    margin-left: 215px;
+    padding-bottom: 0;
+    margin-bottom: -8px;
+}

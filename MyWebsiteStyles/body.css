@@ -1,0 +1,12 @@
+.body{
+    font: Pacifico;
+    padding-top: 1px;
+    padding-left: 0px;
+    padding-right: 1px;
+    background-color: rgb(255, 255, 255);
+    font-family: Roboto, Arial, Pacifico;
+}
+
+html {
+    height: 100%;
+}

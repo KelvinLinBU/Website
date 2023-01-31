@@ -1,0 +1,35 @@
+.workcontainer{
+    border-color: rgb(36,54,50);
+    border-width: 3px;
+    border-style: solid;
+    width:1418px;
+    height:auto;
+    margin-right: 0px;
+    
+    justify-content: center;
+}
+
+.worktitle{
+    color: rgb(36,54,50);
+    font-family: Merriweather;
+    font-weight: bold;
+    font-size: 24px;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.workcompany{
+    color: rgb(36,54,50);
+    font-family: Merriweather;
+    font-weight: bold;
+    font-size: 18px;
+    padding-left: 10px;
+}
+
+.workdescription{
+    color: rgb(36,54,50);
+    font-family: Merriweather;
+    padding-left:10px;
+    font-size: 16px;
+    padding-bottom: 7px;
+}
